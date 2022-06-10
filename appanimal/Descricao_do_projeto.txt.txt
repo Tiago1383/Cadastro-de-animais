@@ -1,0 +1,7 @@
+Este projeto esta sendo desenvolvido utilizando como front end
+HTML5 e CSS3, de uma maneira simples, porém, podendo ser utilizado
+como input diretamente da interface do cliente.
+
+Como estrutura back end, estou utilizando o framework FastAPI, 
+que utiliza a linguagem Python para estrutura e JavaScript como
+motor e API de integração.
